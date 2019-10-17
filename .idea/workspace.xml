@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37a8fb45-0881-495e-86c1-d8edcf2118b6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DepsLocalSettings">
+    <option name="repoId" value="" />
+    <option name="repoUrl" value="" />
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../CLOJURE/clojurithms.core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CLOJURE/clojurithms/clojurithms.core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clojurescript/cljs_fullstack_playground.core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clojurescript/electron-cljs-playground.core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clojurescript/hello-clojurescript.core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/all-book-examples-fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/codewars-ui-fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/fulcro-frontend-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/fulcro-pathom-realworld-example-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/fulcro3-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/fulcro3-yt-videos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/sabedoria" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/simple-clicker-fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/spa-without-ui-fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fulcro/spacex-fulcro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../pathom/pithyless_pathom-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../shadow_cljs/u_minimal_xyz_r_shadow_cljs_nodejs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../shadow_cljs/u_shadow_cljs_r_examples/electron" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1SKFcS3R4fu3uhv3RDuGtsuOVIZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a8fb45-0881-495e-86c1-d8edcf2118b6" name="Default Changelist" comment="" />
+      <created>1571304459769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571304459769</updated>
+      <workItem from="1571304468944" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
